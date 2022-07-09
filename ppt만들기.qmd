@@ -28,3 +28,6 @@ When you click the **Render** button a presentation will be generated that inclu
 ```{r}
 1 + 1
 ```
+## 수정
+
+웹에서 수정 하고 있습니다.  
